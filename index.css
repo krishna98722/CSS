@@ -1,0 +1,10 @@
+#nav
+{
+    border-bottom: 2px solid black;
+}
+#head
+{
+    position: absolute;
+    top: 55%;
+    left: 44%;
+}
